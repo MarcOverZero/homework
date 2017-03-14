@@ -6,3 +6,5 @@ If the user input is "GOODBYE!" and it is the first time they have said it, bad_
 If the user input is "GOODBYE!" and it is the second time they say it, bad_connection returns "THANK YOU FOR CALLING!"
 
 much changes so git
+
+look more changes
