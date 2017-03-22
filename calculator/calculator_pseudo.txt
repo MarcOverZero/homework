@@ -1,0 +1,6 @@
+class of calculator
+instances of calculator hold  value (defaults to 0)
+the value is altered by the methods
+add adds an argument value to the held value
+subtract subtracts the argument value from the held value
+clear returns the held value to 0
